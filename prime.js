@@ -21,4 +21,5 @@ let ans=Primecheck(15);
     console.log(num,"is a Prime Number");
  }else{
     console.log(num,"is not a Prime Number");
+
 }
